@@ -126,8 +126,11 @@ if __name__ == "__main__":
         print("No results found for the query.")
 ```
 ### Output:
+## OR
 <img width="1003" height="307" alt="Screenshot 2025-09-25 154928" src="https://github.com/user-attachments/assets/7ee74816-b9da-41ae-8612-fd8cb6d6fe73" />
+## AND
 <img width="1005" height="306" alt="Screenshot 2025-09-25 154947" src="https://github.com/user-attachments/assets/9e988927-74ea-4828-9730-8f2edab01404" />
+## NOT
 <img width="996" height="306" alt="Screenshot 2025-09-25 155243" src="https://github.com/user-attachments/assets/6bd38f2a-6be3-4529-a703-9740e009c2a1" />
 
 ### Result:
